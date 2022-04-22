@@ -1,7 +1,7 @@
-# curriculum-databases-projects-template
+# Clinic Database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> This is a project clinic database created based on a diagram.
+> ![screenShot](https://github.com/microverseinc/curriculum-databases/blob/main/db-structure/images/clinic_diagram.png)
 
 
 ## Getting Started
