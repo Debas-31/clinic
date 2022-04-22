@@ -5,6 +5,7 @@
 
 ## Built With
 - PLpgSQL
+- SQL
 
 
 ## Getting Started
