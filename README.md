@@ -3,6 +3,9 @@
 > This is a project clinic database created based on a diagram.
 > ![screenShot](https://github.com/microverseinc/curriculum-databases/blob/main/db-structure/images/clinic_diagram.png)
 
+## Built With
+- PLpgSQL
+
 
 ## Getting Started
 
