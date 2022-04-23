@@ -4,8 +4,8 @@
 > ![screenShot](https://github.com/microverseinc/curriculum-databases/blob/main/db-structure/images/clinic_diagram.png)
 
 ## Built With
-- PLpgSQL
-- SQL
+   - PLpgSQL
+   - SQL
 
 
 ## Getting Started
